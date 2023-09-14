@@ -65,7 +65,7 @@ GhostCut的智能去字幕也使用AI Inpainting技术，他会首先使用视�
 {"msg":"success","trace":"c178bdf50dd7454e8db672f0e44593c4","code":1000,"body":{"idProject":220925302,"dataList":[{"url":"https://v.douyin.com/Sqv7vgw/","id":476993630}]}}
 ```
 
-[视频去字幕API文档](https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc "GhostCut视频去字幕接口文档")
+[视频去字幕API文档](https://jollytoday.feishu.cn/docx/ItgYd4MDvooxFNx37DdcYxQ9n8c "GhostCut视频去字幕接口文档")
 
 
 ## 视频擦除类产品支持以下四种模式，你可以自定义保护区域或指定删除区域：
