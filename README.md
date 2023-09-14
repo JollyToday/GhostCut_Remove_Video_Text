@@ -66,7 +66,7 @@ Such as: Smart Text Removal: https://api.zhaoli.com/v-w-c/gateway/ve/work/fast
 ```json
 {"msg":"success","trace":"c178bdf50dd7454e8db672f0e44593c4","code":1000,"body":{"idProject":220925302,"dataList":[{"url":"https://v.douyin.com/Sqv7vgw/","id":476993630}]}}
 ```
-[API documents](https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc "GhostCut API documents")
+[Video Text Removal API documents](https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc "GhostCut Video Text Removal API documents")
 
 
 ## Text removal supports the following four modes, and you can customize the protection area or specify the deletion area:
@@ -83,7 +83,7 @@ Such as: Smart Text Removal: https://api.zhaoli.com/v-w-c/gateway/ve/work/fast
 
 ![image](https://github.com/JollyToday/GhostCut_Remove_Video_Text/assets/128401459/09bc48c1-412c-4561-9cdb-dd500c7d7983)
 
-* [GhostCut User Guides](https://ghostcut.notion.site/5df83fa6726747b39bd4272a052c1bc1?v=7afb54a3dc70455a949d3945bb0c4221 "GhostCut User Guides")
+[GhostCut User Guides](https://ghostcut.notion.site/5df83fa6726747b39bd4272a052c1bc1?v=7afb54a3dc70455a949d3945bb0c4221 "GhostCut User Guides")
 
 
 ## Contact GhostCut
