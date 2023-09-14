@@ -85,6 +85,10 @@ Such as: Smart Text Removal: https://api.zhaoli.com/v-w-c/gateway/ve/work/fast
 
 [GhostCut User Guides](https://ghostcut.notion.site/5df83fa6726747b39bd4272a052c1bc1?v=7afb54a3dc70455a949d3945bb0c4221 "GhostCut User Guides")
 
+## More about JollyToday and GhostCut APIs
+- GhostCut product tutorial, please refer to:ghostcut.medium.com
+- GhostCut's API advantages: Focus on AI video, has served millions of users, and is trusted by API customers at home and abroad. Good product experience, superior effect, cost effective, support private deployment and partial customization, support secondary editing, and provide exclusive docking group support.
+- GhostCut API provides the following capabilities, includingvideo inpainting (de-text), video deduplication,  video eraser, video translation (by ASR), video translation (by OCR), AI dubbing, template editing, video segmentation, video OCR and other interfaces, multiple capabilities can be combined in one interface., If you need more, please contact us !
 
 ## Contact GhostCut
 * WeChat: 360254, please indicate GitHub in the remark.
