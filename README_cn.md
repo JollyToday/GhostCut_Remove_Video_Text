@@ -81,11 +81,14 @@ d.移除文字后，对指定区域的处理结果进行二次调整，设置保
 <img width="720" alt="image" src="https://github.com/JollyToday/GhostCut_Remove_Video_Text/assets/128401459/34db47f2-6bee-4401-9a29-6138a0d19772">
 <img width="720" alt="image" src="https://github.com/JollyToday/GhostCut_Remove_Video_Text/assets/128401459/8d842173-b7c2-45ba-9965-7e4857d7f539">
 
+[鬼手剪辑用户使用教程](https://ghostcut.notion.site/5df83fa6726747b39bd4272a052c1bc1?v=7afb54a3dc70455a949d3945bb0c4221 "GhostCut鬼手剪辑用户指南")
 
-[鬼手剪辑用户使用教程](https://ghostcut.notion.site/5df83fa6726747b39bd4272a052c1bc1?v=7afb54a3dc70455a949d3945bb0c4221 "GhostCut用户指南")
+## 更多关于招鲤科技和鬼手剪辑API
+- 招鲤科技对外提供的产品包括智能剪辑工具、AI图片翻译服务和智能账号管理系统等，先后服务近百万中小客户并为数百家顶级的DTC品牌、电商平台、MCN机构、游戏、内容平台等提供视频化和智能化综合解决方案。[查看招鲤科技公司介绍和客户案例](https://jollytoday.feishu.cn/docx/doxcnqiDVJ3UEMtSLBnBtkuSrSb "招鲤科技公司介绍")
+- 鬼手剪辑提供以下能力，包括视频去重、视频修复（去文字）、视频擦除、视频翻译（通过识别字幕）、视频翻译（通过识别于语音）、视频翻译和配音、模版剪辑、视频分割、视频合成、视频OCR等接口，多个能力可以在一个接口组合调用
+- 鬼手剪辑的产品优势：专注AI视频领域，已服务百万用户，国内外API客户信赖。产品体验好、效果有优势、性价比高、支持私有化和部分定制、支持二次编辑、提供专属对接群支持等
+- 欢迎联系我们获得更多接口权限和专属对接支持
 
-
-## 联系GhostCut
+## 联系鬼手剪辑
 - 微信：360254，备注请注明GitHub。
-- 邮箱： niumoz#izhaoli.com (#-->@)
-
+- 邮箱：niumoz#izhaoli.com (#-->@)
