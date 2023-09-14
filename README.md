@@ -1,5 +1,5 @@
 # GhostCut_Remove_Video_Text
-Remove any video text by auto OCR and inpainting. Auto erase video watermarks、texts 、subtitles...
+Remove any video text by auto OCR and inpainting. Auto erase video watermarks、texts 、subtitles、logos、emojis...
 
 ## [English Version](https://github.com/JollyToday/GhostCut_Remove_Video_Text/main/README.md "GhostCut English info")  ---- [中文介绍](https://github.com/JollyToday/GhostCut/blob/main/README_cn.md "鬼手剪辑中文介绍") 
 
@@ -86,7 +86,7 @@ Such as: Smart Text Removal: https://api.zhaoli.com/v-w-c/gateway/ve/work/fast
 * [GhostCut User Guides](https://ghostcut.notion.site/5df83fa6726747b39bd4272a052c1bc1?v=7afb54a3dc70455a949d3945bb0c4221 "GhostCut User Guides")
 
 
-## Contact Us
+## Contact GhostCut
 * WeChat: 360254, please indicate GitHub in the remark.
 * Email：niumoz#izhaoli.com（#-->@）
 
