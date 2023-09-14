@@ -1,7 +1,7 @@
 # GhostCut_Remove_Video_Text
 Remove any video text by auto OCR and inpainting. Auto erase video watermarks、texts 、subtitles、logos、emojis...
 
-## [English Version](https://github.com/JollyToday/GhostCut_Remove_Video_Text/main/README.md "GhostCut English info") ---- [中文介绍](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README_cn.md "鬼手剪辑中文介绍")
+## [English Version](https://github.com/JollyToday/GhostCut_Remove_Video_Text/main/README.md "GhostCut English info") --- [中文介绍](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README_cn.md "鬼手剪辑中文介绍")
 
 ## Introduction to GhostCut
 GhostCut is an intelligent video editing tool. The core purpose is to help users improve the processing speed of materials and the quality of video creative production. It uses a lot of AI capabilities in the processing details of various audio & video, improving the processing efficiency for many video.
