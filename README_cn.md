@@ -1,7 +1,7 @@
 # 鬼手剪辑_智能去字幕和视频擦除
 通过自动视频OCR和视频修复，擦除任何视频内的文本，也可擦除视频水印、文本、字幕、徽标、表情符号、人物、物体等…
 
-## [English Version](https://github.com/JollyToday/GhostCut_Remove_Video_Text/main/README.md "GhostCut English info") ---- [中文介绍](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README_cn.md "鬼手剪辑中文介绍")
+## [English Version](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README.md "GhostCut Video text removal info") --- [中文介绍](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README_cn.md "鬼手剪辑去字幕中文介绍")
 
 ## 鬼手剪辑简介
 鬼手剪辑又称为GhostCut，他是一款智能视频编辑工具，核心目的是帮助用户提升素材的处理速度和视频创意制作的质量，在各种音视频的处理细节中使用了大量的AI能力，为很多视频提升了处理效率。
