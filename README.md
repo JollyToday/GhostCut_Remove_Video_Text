@@ -19,7 +19,7 @@ This is Smart Text Removal and Video Inpainting demo video. If you need to learn
 
 Specifically as follows 
 
-<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/a0b03034fcbd457c/1680243681313.png" width="720">
+<img src="https://gc100.cdn.izhaoli.cn/ve_material_image/A-a0b03034fcbd457c/c2fef7a4532d4effb7ce2b0214d0ad66/1711978895360.png" width="720">
 
 ### 2.Related Video text removal scenarios:
 
