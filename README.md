@@ -3,19 +3,21 @@ Remove any video text by auto OCR and inpainting. Auto erase video watermarks、
 
 ## [English Version](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README.md "GhostCut Video text removal info") --- [中文介绍](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README_cn.md "鬼手剪辑去字幕中文介绍")
 
-## Introduction to GhostCut
-GhostCut is an intelligent video editing tool. The core purpose is to help users improve the processing speed of materials and the quality of video creative production. It uses a lot of AI capabilities in the processing details of various audio & video, improving the processing efficiency for many video.
+> **International users:** Use [Weydub Subtitle Removal](https://weydub.com/subtitle-removal/) and the [Video Subtitle Removal API guide](https://weydub.com/docs/api/video-subtitle-removal.html). Weydub is the international version of GhostCut; this repository keeps the historical GhostCut project name for compatibility, and older screenshots/GIFs may still show the original domestic brand.
 
-Experience address:[Free Try GhostCut Video Text Removal](https://weydub.com/subtitle-removal/ "Free Try GhostCut Video Text Removal")
+## Introduction to Weydub
+Weydub, the international version of GhostCut, is an intelligent video editing and localization tool. The core purpose is to help users improve material processing speed and video creative production quality. It uses AI capabilities across audio and video processing details, improving efficiency for many video workflows.
 
-There are Chinese and English versions. Mainland users can access product in  WeChat mini program, search GhostCut.
+Experience address:[Try Weydub Subtitle Removal](https://weydub.com/subtitle-removal/ "Try Weydub Subtitle Removal")
+
+For international users, use Weydub on the web. Mainland China users can still access the domestic GhostCut product in the WeChat mini program.
 
 ### Smart Text Removal- video demos
 <img src="https://github.com/JollyToday/GhostCut-auto_video_translation/blob/main/4AF80FA6-B2CE-44A0-9123-CEE40423CC60.GIF" width="720"> 
 
-This is Smart Text Removal and Video Inpainting demo video. If you need to learn about video inpainting, please to visit the video inpainting introduction. Compared to other text removal software, such as Runway's Inpainting feature, GhostCut's text removal（Inpainting） is simpler, smarter, and more affordable. You can check the specific differences between GhostCut and Runway in Video Inpainting here: [Difference between GhostCut and Runway in Video Inpainting](https://weydub.com/subtitle-removal/ "Difference between GhostCut and Runway in Video Inpainting")。
+This is a smart text removal and video inpainting demo. Compared to other text removal software, such as Runway's inpainting feature, Weydub/GhostCut text removal is designed to be simple, smart, and cost effective. You can start from [Weydub Subtitle Removal](https://weydub.com/subtitle-removal/ "Weydub Subtitle Removal").
 
-### 1.What kind of video texts can GhostCut automatically remove?
+### 1.What kind of video text can Weydub automatically remove?
 
 Specifically as follows 
 
@@ -41,16 +43,16 @@ Remove both Chinese and English at the same time, or remove Chinese, English, Ja
 * Support automatic detection of video subject and upper and lower edges, and refill the background outside the video main subject
 
 ### 5.Difference between Smart text removal and Video remover
-GhostCut offers two types of video remover products. Smart text removal can automatically remove Chinese and English text from videos, and video remover can remove any objects by manually marking the removal positions through the web version or APIs.
+Weydub/GhostCut offers two types of video remover products. Smart text removal can automatically remove Chinese and English text from videos, and video remover can remove any objects by manually marking the removal positions through the web version or APIs.
 
-The [Smart Text Removal] of GhostCut also use AI Remover tech but first detects the text in the video and then erases it automatically. If you want to remove some specific logos, stickers or watermarks from the video, you need to use the manual marking method to remove them.
+The [Smart Text Removal] workflow uses AI remover technology, but first detects the text in the video and then erases it automatically. If you want to remove some specific logos, stickers or watermarks from the video, you need to use the manual marking method to remove them.
 
-At present, the [Video Remover] function has been released on both the Mini Program side and the PC section of GhostCut. You can directly select any element you want to remove, and the following elements can be removed.[Text] [Icon] [logo] [ watermark ] [logo] [sticker] [animation] and so on…
+At present, the [Video Remover] function is available in the domestic GhostCut product and related web/API flows. You can directly select any element you want to remove, and the following elements can be removed.[Text] [Icon] [logo] [ watermark ] [logo] [sticker] [animation] and so on…
 
-Compared to other Remover software, such as Runway's Inpainting feature, GhostCut's Inpainting is simpler, smarter, and more affordable. You can check the specific differences between GhostCut and Runway in Video Inpainting here: Difference between GhostCut and Runway in Video Inpainting
+Compared to other remover software, such as Runway's inpainting feature, Weydub/GhostCut inpainting is designed to be simpler, smarter, and more affordable. Start from [Weydub Subtitle Removal](https://weydub.com/subtitle-removal/).
 
 ## Video Text Removal API interface support
-GhostCut provides the output of all API functions, including video deduplicate editing, automatic text removal, video erasure, video subtitle translation, video voice translation (including dubbing) and other interfaces. Multiple capabilities can be superimposed and selected together. (AppKey required)
+Weydub provides API access for video localization workflows, including automatic text removal, video erasure, video subtitle translation, video voice translation (including dubbing), and related interfaces. Multiple capabilities can be superimposed and selected together. (AppKey required)
 
 It can be integrated into third-party products (of course, it is not necessary to develop or have other alternatives, after all, this is a fee).
 
@@ -66,7 +68,7 @@ Such as: Smart Text Removal: https://api.zhaoli.com/v-w-c/gateway/ve/work/fast
 ```json
 {"msg":"success","trace":"c178bdf50dd7454e8db672f0e44593c4","code":1000,"body":{"idProject":220925302,"dataList":[{"url":"https://v.douyin.com/Sqv7vgw/","id":476993630}]}}
 ```
-[Video Text Removal API documents](https://weydub.com/docs/api/video-subtitle-removal.html "GhostCut Video Text Removal API documents")
+[Video Text Removal API documents](https://weydub.com/docs/api/video-subtitle-removal.html "Weydub Video Text Removal API documents")
 
 
 ## Text removal supports the following four modes, and you can customize the protection area or specify the deletion area:
@@ -83,14 +85,14 @@ Such as: Smart Text Removal: https://api.zhaoli.com/v-w-c/gateway/ve/work/fast
 
 ![image](https://github.com/JollyToday/GhostCut_Remove_Video_Text/assets/128401459/09bc48c1-412c-4561-9cdb-dd500c7d7983)
 
-[GhostCut User Guides](https://weydub.com/docs/api/ "GhostCut User Guides")
+[Weydub API and automation guides](https://weydub.com/docs/api/ "Weydub API and automation guides")
 
-## More about JollyToday and GhostCut APIs
-- GhostCut product tutorial, please refer to:ghostcut.medium.com
-- GhostCut's API advantages: Focus on AI video, has served millions of users, and is trusted by API customers at home and abroad. Good product experience, superior effect, cost effective, support private deployment and partial customization, support secondary editing, and provide exclusive docking group support.
-- GhostCut API provides the following capabilities, includingvideo inpainting (de-text), video deduplication,  video eraser, video translation (by ASR), video translation (by OCR), AI dubbing, template editing, video segmentation, video OCR and other interfaces, multiple capabilities can be combined in one interface., If you need more, please contact us !
+## More about Weydub and GhostCut APIs
+- Weydub is the international version of GhostCut for web product access, API docs, and automation guides.
+- Weydub/GhostCut API advantages: Focus on AI video, has served many users, and is trusted by API customers at home and abroad. Good product experience, strong results, cost effective, support private deployment and partial customization, support secondary editing, and provide dedicated integration support.
+- Weydub/GhostCut API provides capabilities including video inpainting (de-text), video deduplication, video eraser, video translation (by ASR), video translation (by OCR), AI dubbing, template editing, video segmentation, video OCR and other interfaces. Multiple capabilities can be combined in one interface. If you need more, please contact us.
 
-## Contact GhostCut
+## Contact
+* For international product access, start from [Weydub](https://weydub.com/).
 * WeChat: 360254, please indicate GitHub in the remark.
 * Email：niumoz#izhaoli.com（#-->@）
-
