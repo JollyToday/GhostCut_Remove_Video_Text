@@ -6,14 +6,14 @@ Remove any video text by auto OCR and inpainting. Auto erase video watermarks、
 ## Introduction to GhostCut
 GhostCut is an intelligent video editing tool. The core purpose is to help users improve the processing speed of materials and the quality of video creative production. It uses a lot of AI capabilities in the processing details of various audio & video, improving the processing efficiency for many video.
 
-Experience address:[Free Try GhostCut Video Text Removal](https://jollytoday.com/Smart_Text_Removal?redirect=%2Fhome&code=th741 "Free Try GhostCut Video Text Removal")
+Experience address:[Free Try GhostCut Video Text Removal](https://weydub.com/subtitle-removal/ "Free Try GhostCut Video Text Removal")
 
 There are Chinese and English versions. Mainland users can access product in  WeChat mini program, search GhostCut.
 
 ### Smart Text Removal- video demos
 <img src="https://github.com/JollyToday/GhostCut-auto_video_translation/blob/main/4AF80FA6-B2CE-44A0-9123-CEE40423CC60.GIF" width="720"> 
 
-This is Smart Text Removal and Video Inpainting demo video. If you need to learn about video inpainting, please to visit the video inpainting introduction. Compared to other text removal software, such as Runway's Inpainting feature, GhostCut's text removal（Inpainting） is simpler, smarter, and more affordable. You can check the specific differences between GhostCut and Runway in Video Inpainting here: [Difference between GhostCut and Runway in Video Inpainting](https://ghostcut.notion.site/Difference-between-GhostCut-and-Runway-in-Video-Inpainting-f5764304757f4bb995aff2c48fb148a7 "Difference between GhostCut and Runway in Video Inpainting")。
+This is Smart Text Removal and Video Inpainting demo video. If you need to learn about video inpainting, please to visit the video inpainting introduction. Compared to other text removal software, such as Runway's Inpainting feature, GhostCut's text removal（Inpainting） is simpler, smarter, and more affordable. You can check the specific differences between GhostCut and Runway in Video Inpainting here: [Difference between GhostCut and Runway in Video Inpainting](https://weydub.com/subtitle-removal/ "Difference between GhostCut and Runway in Video Inpainting")。
 
 ### 1.What kind of video texts can GhostCut automatically remove?
 
@@ -66,7 +66,7 @@ Such as: Smart Text Removal: https://api.zhaoli.com/v-w-c/gateway/ve/work/fast
 ```json
 {"msg":"success","trace":"c178bdf50dd7454e8db672f0e44593c4","code":1000,"body":{"idProject":220925302,"dataList":[{"url":"https://v.douyin.com/Sqv7vgw/","id":476993630}]}}
 ```
-[Video Text Removal API documents](https://jollytoday.feishu.cn/docx/LSNzdoGtOoTSqsxM4K8cooc7nAc "GhostCut Video Text Removal API documents")
+[Video Text Removal API documents](https://weydub.com/docs/api/video-subtitle-removal.html "GhostCut Video Text Removal API documents")
 
 
 ## Text removal supports the following four modes, and you can customize the protection area or specify the deletion area:
@@ -83,7 +83,7 @@ Such as: Smart Text Removal: https://api.zhaoli.com/v-w-c/gateway/ve/work/fast
 
 ![image](https://github.com/JollyToday/GhostCut_Remove_Video_Text/assets/128401459/09bc48c1-412c-4561-9cdb-dd500c7d7983)
 
-[GhostCut User Guides](https://ghostcut.notion.site/5df83fa6726747b39bd4272a052c1bc1?v=7afb54a3dc70455a949d3945bb0c4221 "GhostCut User Guides")
+[GhostCut User Guides](https://weydub.com/docs/api/ "GhostCut User Guides")
 
 ## More about JollyToday and GhostCut APIs
 - GhostCut product tutorial, please refer to:ghostcut.medium.com
