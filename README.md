@@ -1,4 +1,6 @@
-> **国内用户请使用[鬼手剪辑官网](https://cn.jollytoday.com/subtitle-removal/)。** 本仓库是产品说明与历史项目名，不是可运行的开源算法。API 与 Skill：https://cn.jollytoday.com/api/# GhostCut_Remove_Video_Text
+> **国内用户请使用[鬼手剪辑官网](https://cn.jollytoday.com/subtitle-removal/)。** 本仓库是产品说明与历史项目名，不是可运行的开源算法。API 与 Skill：https://cn.jollytoday.com/api/
+
+# GhostCut_Remove_Video_Text
 Remove any video text by auto OCR and inpainting. Auto erase video watermarks、texts 、subtitles、logos、emojis...
 
 ## [English Version](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README.md "GhostCut Video text removal info") --- [中文介绍](https://github.com/JollyToday/GhostCut_Remove_Video_Text/blob/main/README_cn.md "鬼手剪辑去字幕中文介绍")
